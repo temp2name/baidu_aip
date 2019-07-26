@@ -2,12 +2,12 @@
 idcardOCR:
 {
 deadline:2019-07-26,
-show_text:已经过了试用期}
+show_text:已经过了试用期
 }
 ~
 faceDetect:
 {
 deadline:2019-07-26,
-show_text:已经过了试用期}
+show_text:已经过了试用期
 }
 #验证项-结束
