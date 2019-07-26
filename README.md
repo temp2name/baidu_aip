@@ -1,7 +1,7 @@
 #验证项-开始
 {
 project:idcardOCR,
-deadline:2019-07-26,
+deadline:2019-08-15,
 show_text:已经过了试用期
 }
 ~
